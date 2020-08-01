@@ -28,3 +28,9 @@ if you want to change the position of HEAD and revert the changes as well.
 git reset --hard HEAD~n
 
 
+Scenario - 2
+
+In extension to Scenario 1 what if there are modifications in multiple files.
+I want to revert the changes of specific files and don't want to revert changes of other files.
+
+

@@ -1,0 +1,3 @@
+This file is created to test the scenario -2. 
+
+Is it possible to hard reset n files and soft reset o files.
