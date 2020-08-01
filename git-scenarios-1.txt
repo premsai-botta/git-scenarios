@@ -16,3 +16,15 @@ You committed the file.
 	Take a back up of the file for safety.
 	Do a soft reset
 	git reset --soft
+	
+Resolution :
+
+if you want to keep the changes and just want to change the position of HEAD by n poisition
+
+git reset --soft HEAD~n
+
+if you want to change the position of HEAD and revert the changes as well.
+
+git reset --hard HEAD~n
+
+
