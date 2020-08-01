@@ -1,0 +1,18 @@
+Scenario 1: 
+
+You are working on files. 
+You made some changes.
+You committed the file.
+
+	commit is unsuccesful because some other person uploaded a new file in the server.
+	what to do?
+	
+	Push rejected.
+	How many files have been modified?
+	
+	Do you want to keep your changes are do you want to remove them?
+	
+	
+	Take a back up of the file for safety.
+	Do a soft reset
+	git reset --soft
